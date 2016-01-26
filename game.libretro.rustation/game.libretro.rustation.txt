@@ -1,1 +1,1 @@
-game.libretro.rustation /home/akva/kode/kodi-addons/game.libretro.rustation master
+game.libretro.rustation https://github.com/notspiff/game.libretro.rustation master
