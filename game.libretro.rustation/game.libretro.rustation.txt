@@ -1,0 +1,1 @@
+game.libretro.rustation /home/akva/kode/kodi-addons/game.libretro.rustation master
